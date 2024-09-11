@@ -27,3 +27,5 @@ I’m excited to showcase my latest Power BI dashboard project, where I’ve ana
 ## Why This Project Matters:
 
 This dashboard offers a clear view of the sales landscape for Blinkit and provides actionable insights to help drive strategic decisions in the retail and grocery delivery space. By leveraging data visualization, this project supports optimizing performance and enhancing business strategies.
+
+![Blinkit Dahboard Pic 1](https://github.com/user-attachments/assets/60f57f55-d4cb-481f-b795-858ea68ce660)
